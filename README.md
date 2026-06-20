@@ -207,7 +207,7 @@ Run:
 
 # Example Prompt
 
-    Plan a complete 7 days Japan trip including flights, hotels and sightseeing under 2 lakhs.
+    Plan a complete 7 days Japan trip from Delhi including flights, hotels and sightseeing under 2 lakhs.
 
 
 ---
