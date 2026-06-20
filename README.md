@@ -221,3 +221,8 @@ Run:
 - Weather MCP Integration
 - Streamlit Web App
 - Real-Time Travel Planning
+
+
+## AI Travel Booking System
+
+![AI Travel Booking System](images/ai-travel-booking-system.png)
