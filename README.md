@@ -29,13 +29,13 @@ https://github.com/akhileshtrivedi/AI-Travel-Planning-Using-LangGraph
 # Step 1: Create Python Environment
 
 
-    python -m venv langgraph_env3
+    python -m venv langgraph_env4
 
 
 Activate:
 
 
-    langgraph_env3\Scripts\activate
+    langgraph_env4\Scripts\activate
 
 
 ---
@@ -80,7 +80,7 @@ Create a `.env` file:
 
     AVIATIONSTACK_API_KEY=your_aviationstack_api_key
 
-    DATABASE_URL=postgresql://postgres:postgres@localhost:5433/langgraph_memory_demo
+    DATABASE_URL=postgresql://postgres:postgres@localhost:5433/langgraph_memory
 
 
 ---
@@ -102,9 +102,9 @@ https://github.com/Pradumnasaraf/aviationstack-mcp
 
 Open PowerShell:
 
-    E:
+    D:
 
-    cd E:\Multi_agent_system_with_MCP
+    cd D:\Multi_agent_system_with_MCP
 
 
 Clone repository:
@@ -153,7 +153,7 @@ This will:
     .venv\Scripts\activate
 
 
-## Start MCP Server(Custom MCP Server)
+## Start MCP Server
 
     uv run -m aviationstack_mcp mcp run
 
@@ -173,7 +173,7 @@ The server will remain running and wait for MCP requests.
 
 ---
 
-# Setup Weather MCP Server
+# Setup Weather MCP Server (Custom MCP Server)
 
 Get API key:
 

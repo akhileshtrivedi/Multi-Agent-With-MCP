@@ -55,17 +55,6 @@ class TravelState(TypedDict):
     llm_calls: int
     weather_results: str
 
-# Flight Agent
-# def flight_agent(state: TravelState):
-#     query = state["user_query"]
-#     flight_data = search_flights(query)
-#     return {
-#         "flight_results": flight_data,
-#         "messages": [
-#             AIMessage(content=f"Flight results fetched")
-#         ],
-#         "llm_calls": state.get("llm_calls", 0) + 1
-#     }
 
 # Flight Tool Router Prompt
 FLIGHT_AGENT_PROMPT = """
