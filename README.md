@@ -65,7 +65,7 @@ https://www.postgresql.org/download/
 # Step 4: Create Database
 
 
-    CREATE DATABASE langgraph_memory_demo;
+    CREATE DATABASE langgraph_memory;
 
 
 ---
